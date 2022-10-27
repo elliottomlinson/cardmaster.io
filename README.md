@@ -1,6 +1,6 @@
 # [cardmaster.io](https://cardmaster.io)
 
-The website for [Cardmaster](https://github.com/elliottomlinson/cardmaster), a tabletop role-playing game created by [Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)
+> A website for [Cardmaster](https://github.com/elliottomlinson/cardmaster), a tabletop role-playing game created by [Duncan Uszkay](https://github.com/DuncanUszkay1) and [Elliot Tomlinson](https://github.com/elliottomlinson)
 
 [![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
 
